@@ -1,10 +1,9 @@
-name="fouziya"
+name=input("enter the name:")
 vowels="aieou"
 result=[char for char in name if char in vowels]
-print(result)
+print("this is vowel letter",result)
 
-name="fouziya"
-vowels="aieou"
+
 result=[char for char in name if char  not in vowels]
-print(result)
+print("this not vowels letter",result)
 

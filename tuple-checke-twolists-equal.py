@@ -1,0 +1,12 @@
+b=(10,"qwerty",25.7,'z')
+print(b)
+print(b[0])
+c=(10,"qwerty",25.7,'z')
+print(b==c)
+#b[2]=-100
+print(b)
+#b[1]=("ff","mh","bh")
+print(b)
+#b[0:3]=(20,"asiya",35.7,'y')
+print(b)
+print(b==c)
